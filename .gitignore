@@ -1,0 +1,9 @@
+# Dataset files
+*.csv
+*.pkl
+*.h5
+*.model
+
+# System files
+__pycache__/
+*.ipynb_checkpoints
